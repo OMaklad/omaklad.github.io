@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello and welcome. Very happy with your visit!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<p style='text-align: justify;'> I am a postdoctoral research fellow at the School of Engineering, Liverpool John Moores University, on an EPSRC funded <a href="https://gtr.ukri.org/projects?ref=EP%2FS037292%2F1#/tabOverview">project</a>. I am working with a group of amazing researchers and PhD students at the <a href="https://www.ljmu.ac.uk/research/centres-and-institutes/transient-flow-lab">Transient Flow Laboratory (TFL)</a> on the development of a novel approach in modelling of turbulent pulsatile flows. We work in the area of general Fluid Mechanics and in particular on unsteady turbulent flows. We apply numerical and experimental approaches to investigate wide range of applied and fundamental flow problems from simple channel and pipe flows to blood flow in large arteries, turbulent flows over rough surfaces and offshore renewable energy. </p>
 
 A data-driven personal website
 ======
